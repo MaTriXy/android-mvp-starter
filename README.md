@@ -6,7 +6,7 @@
 An MVP Boilerplate to save me having to create the same project over from scratch every time! :)
 <p align="center">
   <img src="http://g.recordit.co/L5selg7aIv.gif" width="250">
-  <img src="http://g.recordit.co/7JNqTQMwLS.gif">
+  <img src="http://g.recordit.co/xt4o5wTySc.gif">
 </p>
 
 ## This project uses:
@@ -83,6 +83,11 @@ To ensure that your code is valid and stable use check:
 ```sh
 ./gradlew check
 ```
+
+### Created & Maintained By
+[Ravindra Kumar](https://github.com/ravidsrk) ([@ravidsrk](https://www.twitter.com/ravidsrk))
+
+> If you found this repo helpful or you learned something from the source code and want to thank me, consider [buying me a cup of](https://www.paypal.me/ravidsrk) :coffee:
 
 ## License
 ```
